@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_ericprepdemo_versioncontrol" name="sn_dd_ericprepdemo_versioncontrol">b7a3aa0d24272010f8775814dbb11161</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-14 17:29:35</sys_created_on>
+        <sys_id>ffa3aa0d24272010f8775814dbb11163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b7a3aa0d24272010f8775814dbb11161</sys_name>
+        <sys_package display_value="eric prep demo" source="x_snc_eric_prep_de">6883e60d24272010f8775814dbb11103</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="eric prep demo">6883e60d24272010f8775814dbb11103</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ffa3aa0d24272010f8775814dbb11163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-14 17:29:35</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
